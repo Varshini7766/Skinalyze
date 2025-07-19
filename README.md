@@ -1,10 +1,11 @@
-# Run and deploy your AI Studio app
+Check the live website here: https://skinalyze-three.vercel.app/
 
-This contains everything you need to run your app locally.
+Run and deploy your AI Studio app:
+This contains everything you need to run your app locally:
 
-## Run Locally
+Run Locally
 
-**Prerequisites:**  Node.js
+Prerequisites:  Node.js
 
 
 1. Install dependencies:
