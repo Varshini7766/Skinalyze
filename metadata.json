@@ -1,0 +1,8 @@
+{
+  "name": "Derm-AI: Skin Problem Detector",
+  "description": "An AI-powered tool to analyze skin images for common conditions. Upload a photo or use your camera for a preliminary visual assessment. This is not a substitute for professional medical advice.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
