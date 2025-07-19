@@ -14,7 +14,7 @@ const Header: React.FC<HeaderProps> = ({ onReset }) => {
           <div className="flex items-center space-x-2 cursor-pointer" onClick={onReset}>
             <Activity className="h-7 w-7 text-indigo-500" />
             <h1 className="text-xl font-bold tracking-tight text-slate-800 dark:text-slate-100">
-              Derm-AI
+              Skinalyze
             </h1>
           </div>
           <button
